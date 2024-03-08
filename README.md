@@ -41,7 +41,7 @@ Estou aqui no GitHub para compartilhar meu progresso, colaborar em projetos incr
 ----
 
 ![LuizYamasaki github stats](https://github-readme-stats.vercel.app/api?username=LuizYamasaki&show_icons=true&theme=onedark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nettobruno&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuizYamasaki&show=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
 Fique à vontade para explorar meus repositórios e entrar em contato se quiser discutir projetos emocionantes ou trocar ideias sobre tecnologia!
 
