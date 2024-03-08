@@ -48,7 +48,7 @@ Fique à vontade para explorar meus repositórios e entrar em contato se quiser 
 **Vamos codificar o futuro juntos!** 🚀
 
 ## Redes Sociais:
-<a href="https://github.com/LuizYamasaki">
+<a href="www.linkedin.com/in/luizyamasaki">
   <img height="30em" src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 <a><img height="30em" src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"></a>
