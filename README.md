@@ -2,7 +2,7 @@
 
 ----
 
-Meu nome é Luiz Henrique, tenho 16 anos e sou um aluno dedicado da - SESI SENAI. Atualmente, estou cursando o curso de Desenvolvimento de Sistemas, onde estou mergulhando no emocionante mundo da programação e tecnologia.
+Meu nome é Luiz Henrique, tenho 18 anos e sou um aluno dedicado da - SESI SENAI. Atualmente, estou cursando o curso de Desenvolvimento de Sistemas, onde estou mergulhando no emocionante mundo da programação e tecnologia.
 
 #### 💻 O que estou fazendo:
 - 📚 Aprendendo diversas linguagens de programação, como Python e JavaScript.
